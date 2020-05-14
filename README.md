@@ -6,4 +6,4 @@ Add my new description
 
 ## Function List
 1. Login
-2. like confilcked
+2. disklike like confilcked
